@@ -1,0 +1,57 @@
+ANNA UNIVERSITY
+Bachelor in Computer Science and Engineering
+Ponjesly College of Engineering
+CGPA- 6.2REMO ROZARIO
+GET IN CONTACT ABOUT ME
+Front-end Technologies
+OTHER SKILLSEDUCATION HISTORYMobile: +91-8590612986
+Email  : remo.rozario07@gmail.comHave a strong foundation in Python
+programming, with proficiency in
+core concepts, libraries, and
+frameworks. Over the past year,
+I have worked on various projects.
+HTML
+CSS
+Research skills.
+Willingness to learn and adapt to
+new technologies and tools.
+The ability to analyze complex
+technical information.LinkedIn: www.linkedin.com/in/remo-rozario
+Pandas
+Matplotlib
+SeabornWORK EXPERIENCE
+Named Entity Recognition (NER) is applied to identify and extract entities
+such as candidate names, addresses, email addresses, phone numbers,
+educational institutions, job titles, and company names.Collaborated with a team of ten in a Recruitment Resume Project.
+Automated Resume Parsing
+Extracting and Structuring Key Information for Streamlined Recruitment
+Processes
+CERTIFICATIONS
+EXPERTZLAB TECHNOLOGIES, ERNAKULAM | 2021-2022DATA SCIENCE WITH AIML ENGINEER
+GitHub: https://github.com/remorozario
+GoFreeLab Technologies
+SOFTWARE DEVELOPER | May 2022 - Present
+Machine learning algorithm automatically categorize text data into
+predefined categories.Text Category Classification Using Machine Learning
+Development of a Django REST API to expose an endpoint for category
+prediction using a trained machine learning model.
+Integration of the ML model within the Django framework to handle
+incoming requests and provide accurate category predictions.Django REST API Integration for ML Model
+Predicting Categories with Machine LearningBack-end Technologies
+Python
+Django
+Database Skills
+MongoDB
+MySQL, PostgreSQL
+Data Analysis and
+Visualization
+Machine Learning and Deep
+LearningAREAS OF EXPERTISE
+Version ControlScikit-Learn
+TensorFlow
+PyTorch
+Cloud Computing Platform
+AWS
+Containers
+Docker
+Git
