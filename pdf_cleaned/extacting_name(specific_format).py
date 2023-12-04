@@ -3,7 +3,7 @@ import PyPDF2
 import re
 
 def extract_name(text):
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("en_core_web_lg")
     doc = nlp(text)
 
     # Extract entities and filter for PERSON entities (names)
