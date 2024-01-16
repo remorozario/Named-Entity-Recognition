@@ -1,0 +1,102 @@
+Amal M S
+
+Amal M S 
+Python Developer 
+I possess a sophisticated aptitude for resolving intricate problems, 
+with an analytical and determined mindset. Committed to
+accomplishing challenging development goals within strict timelines. Have a comprehensive understanding of the Python
+programming language and I am enthusiastic about programming. Furthermore, I have the capability to collaborate
+effectively within a sizable team. I excel in multitasking and possess excellent time management skills.
+ 
+amalmanesh012@gmail.com 
+6282252632 
+Kochi, India 
+linkedin.com/in/amal-m-s-
+b59010239 
+SOFT SKILLS 
+HTML 
+CSS 
+JavaScript 
+Python 
+C++ 
+Django 
+MongoDB 
+GitHub 
+React 
+MySQL 
+Gitlab 
+LANGUAGES 
+Malayalam 
+Native or Bilingual Proﬁciency 
+English 
+Full Professional Proﬁciency 
+Hindi 
+Limited Working Proﬁciency 
+INTERESTS 
+Trading 
+Learning 
+Movies 
+WORK EXPERIENCE 
+Full Stack Developer Trainee 
+Gofreelab Technologies. 
+08/2022 - Present
+, 
+ 
+Kochi,India 
+Spearheaded the development of "
+Freego Passport
+"- an intelligent companion system
+for subscribers that captures user requirements and arranges relevant services and
+increase customer satisfactions.
+ 
+I engineered a dynamic and responsive front-end for
+user registration, login, and resume upload functionalities; optimized load times and
+reduced bounce rate and 
+Architected 
+a scalable back-end for handling user data and
+resume parsing using Django and MongoDB; established seamless integration. 
+Collaborated on the development of an "I
+nterview portal",
+ where I implemented webcam
+access for admin users, enabling them to remotely view and interact with students
+during interviews. To enhance the webcam experience, I integrated advanced features
+such as real-time object detection, noise recognition, and window switching using
+Python.
+ 
+PERSONAL PROJECTS 
+Croud Funding for Web3 Based Projects 
+Investors can easily 
+invest in projects 
+and
+ 
+connect their Crypto wallet to purchase with
+ USDT and
+instantly receive their digital tokens or NFTs. 
+EDUCATION 
+Bachelor of Computer Application. (BCA) 
+Don Bosco College, Kollam 
+07/2019 - 03/2022
+, 
+ 
+Kerala University 
+Computer Science 
+GHSS Paravur,Kollam 
+06/2017 - 03/2019
+, 
+ 
+DHSE Kerala 
+Python Full Stack Devoloper 
+Expertz Lab Technologies. 
+04/2022 - 08/2022
+, 
+ 
+Kochi,India 
+E-Commerce website using
+HTML,CSS,JS and Django.
+ 
+Front-End project using Angular. 
+CERTIFICATES 
+• NACTET - Python Full Stack Developer 
+• Experience Certiﬁcate - Software Engineer Trainee 
+Achievements/Tasks 
+Projects: 
