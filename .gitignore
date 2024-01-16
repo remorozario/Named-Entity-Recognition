@@ -1,2 +1,6 @@
 # Environment folder
 ./env
+
+# Ignore a specific file
+code.json
+entity_spacy.py
