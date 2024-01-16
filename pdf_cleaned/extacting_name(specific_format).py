@@ -56,8 +56,8 @@ def pdf_to_text(pdf_file, text_file):
         print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    pdf_file = "C:/Users/HP/OneDrive/Desktop/Amal Full stack.pdf"
-    text_file = "D:/NER/Named-Entity-Recognition/pdf.txt"
+    pdf_file = "C:/Users/HP/OneDrive/Desktop/cv's/Amal Full stack.pdf"
+    text_file = "D:/NER/Named-Entity-Recognition/names.txt"
 
     # Extract text from PDF
     pdf_to_text(pdf_file, text_file)
