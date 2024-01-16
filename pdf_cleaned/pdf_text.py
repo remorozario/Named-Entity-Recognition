@@ -24,7 +24,7 @@ def pdf_to_text(pdf_file, text_file):
         print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    pdf_file = "C:/Users/HP/OneDrive/Desktop/Remo_Rozario_ML_Resume.pdf"  # Replace with the path to your PDF file
+    pdf_file = "C:/Users/HP/OneDrive/Desktop/cv's/Amal Full stack.pdf"  # Replace with the path to your PDF file
     text_file = "D:/NER/Named-Entity-Recognition/pdf.txt"  # Replace with the desired output text file
     
     pdf_to_text(pdf_file, text_file)

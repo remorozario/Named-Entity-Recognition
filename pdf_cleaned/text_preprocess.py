@@ -55,7 +55,7 @@ cleaned_resume_text = clean_resume_text(resume_text)
 print(cleaned_resume_text)
 
 # Specify the path to the output text file where you want to save the cleaned text
-output_file_path = "cleaned_resume_text.txt"
+output_file_path = "cleaned_resume.txt"
 
 # Write the cleaned text to the output file
 with open(output_file_path, 'w', encoding='utf-8') as file:
