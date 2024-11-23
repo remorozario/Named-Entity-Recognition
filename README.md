@@ -49,7 +49,7 @@ An automated resume parsing tool that streamlines the recruitment process by ext
 3. Upload a resume in PDF format and view the parsed data.
 
 ## Project Structure
-```php
+```
 ├── app.py             # Flask application entry point
 ├── parser.py          # Resume parsing logic
 ├── templates/         # HTML templates for the web interface
