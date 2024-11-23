@@ -29,6 +29,7 @@ An automated resume parsing tool that streamlines the recruitment process by ext
 
 ## Installation
 1. Clone the repository:
+     ```bash
    git clone https://github.com/yourusername/automated-resume-parsing.git
    cd automated-resume-parsing
 
@@ -57,7 +58,7 @@ An automated resume parsing tool that streamlines the recruitment process by ext
 
 └── README.md          # Project documentation
 
-'''├── app.py             # Flask application entry point
+```├── app.py             # Flask application entry point
 ├── parser.py          # Resume parsing logic
 ├── templates/         # HTML templates for the web interface
 ├── static/            # Static files (CSS, JS)
