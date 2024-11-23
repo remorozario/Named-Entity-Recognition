@@ -34,31 +34,23 @@ An automated resume parsing tool that streamlines the recruitment process by ext
    cd automated-resume-parsing
 
 2. Install dependencies:
+    ```bash
     pip install -r requirements.txt
 
 3. Set up the Flask application:
+    ```bash
     export FLASK_APP=app.py
 
 ## Usage
 1. Start the Flask server:
+    ```bash
     flask run
 2. Access the tool at http://127.0.0.1:5000.
 3. Upload a resume in PDF format and view the parsed data.
 
 ## Project Structure
+```php
 ├── app.py             # Flask application entry point
-
-├── parser.py          # Resume parsing logic
-
-├── templates/         # HTML templates for the web interface
-
-├── static/            # Static files (CSS, JS)
-
-├── requirements.txt   # List of dependencies
-
-└── README.md          # Project documentation
-
-```├── app.py             # Flask application entry point
 ├── parser.py          # Resume parsing logic
 ├── templates/         # HTML templates for the web interface
 ├── static/            # Static files (CSS, JS)
